@@ -9,7 +9,7 @@ from mcstatus import MinecraftServer
 
 
 class DataLoader:
-    config = {'token': '', 'server': '', 'port': 25565, 'channel': ''}
+    config = {'token': 'Njg5OTc2NjY1MzUwMDc4NTcx.XnKs7A.A9njfx__jiIJoXm-iiuZjdQ01_o', 'server': 'eclipsepe.ddns.net ', 'port': 19132, 'channel': ''}
 
     def __init__(self, data_args: dict, gen: bool):
         if 'token' in data_args:
